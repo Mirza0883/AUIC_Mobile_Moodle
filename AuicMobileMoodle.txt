@@ -3,4 +3,5 @@ Work done by Mirza Mubashir and Mohsin khan
 1. Explore Moodle features.
 2. Create Moodle mobile Feature summery list.
 3. Explore moodle customization.
-3. Download comsats student portal and use it.
+4. Download comsats student portal and use it.
+5. Install moodle on localhost and run..
