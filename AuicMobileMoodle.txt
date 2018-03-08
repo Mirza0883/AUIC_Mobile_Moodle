@@ -5,3 +5,8 @@ Work done by Mirza Mubashir and Mohsin khan
 3. Explore moodle customization.
 4. Download comsats student portal and use it.
 5. Install moodle on localhost and run..
+6.Install mobilemoodle.apk in mobile through android studio.
+8.Connect Locathost moodle server with mobile through ip address.
+9.After successfully connection Moodle mobile and Moodle web perform following operation.
+.Upload assignment through laptop.
+.submit assignment through mobile
