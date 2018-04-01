@@ -10,3 +10,8 @@ Work done by Mirza Mubashir and Mohsin khan
 9.After successfully connection Moodle mobile and Moodle web perform following operation.
 .Upload assignment through laptop.
 .submit assignment through mobile
+10. Download moodle mobile app source code from github.
+11. Edit somethings in code
+12. Install phonegap setup.
+13. Upload source code zip file on build.phonegap.
+14. After compile, download and run .apk file successfully on mobile device with some new changes..
